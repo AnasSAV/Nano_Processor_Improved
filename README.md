@@ -111,10 +111,3 @@ You can test the nanoprocessor’s functionality by running different assembly i
 - Check the Instruction Decoder, Arithmetic Unit, Register Bank, and other components to ensure they are functioning as expected.
 - Use testbenches to automate the validation of different instructions and components.
   
-## Contributing
-Contributions to the project are welcome! If you'd like to improve functionality or add new features:
-
-## Fork the repository.
-- Create a new branch with your feature or fix.
-- Submit a pull request, and we’ll review it.
-- Feel free to also open issues if you spot bugs or have suggestions.
